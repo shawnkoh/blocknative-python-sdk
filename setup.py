@@ -31,7 +31,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Taylor Dawson",
     author_email="taylor@blocknative.com",
-    url="https://github.com/blocknative/python-sdk",
+    url="https://github.com/shawnkoh/blocknative-python-sdk",
     keywords="ethereum,api,transactions,blocknative",
     packages=["blocknative"],
     python_requires=">=3.7",
