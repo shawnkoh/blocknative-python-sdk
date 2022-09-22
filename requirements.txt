@@ -1,5 +1,5 @@
 async-generator==1.10
-attrs>=21.2.0
+attrs>=22.1.0
 h11==0.12.0
 idna>=3.3
 outcome==1.1.0
